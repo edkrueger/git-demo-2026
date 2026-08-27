@@ -1,2 +1,2 @@
-echo Hello edward
-echo $RANDOM is your lucky number
+echo Hello $USER
+echo $RANDOM is your Lucky number
